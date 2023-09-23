@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CptTrips83
-- 👀 I’m interested in PHP Symfony Development
-- 🌱 I’m currently learning Vue.js
+- 👋 Hi, ich bin @CptTrips83. Ich entwickle mit Leidenschaft und bin in diversen Sprachen zu Hause. Meine Spezialität ist PHP
+- 👀 Ich interessiere mich für die Entwicklung mit PHP und dem Symfony Framework, sowie C# und Unity.
+- 🌱 Aktuell lerne ich Vue.js und arbeite an verschiedenen Projekten mit Symfony und Unity um meine Fähigkeiten zu verbessern.
 
 <!---
 CptTrips83/CptTrips83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
